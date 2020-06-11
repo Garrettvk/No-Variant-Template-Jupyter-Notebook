@@ -11,3 +11,6 @@ openpyxl - writes xlsx files
 xlrd = reads exl files
 
 requirements.txt
+
+how to transfer group of commit to another branch
+  https://stackoverflow.com/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git
