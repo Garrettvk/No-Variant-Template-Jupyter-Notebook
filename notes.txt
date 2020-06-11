@@ -1,0 +1,13 @@
+conda create --name no_variant_env python=3
+
+conda activate no_variant_env
+
+pip install: 
+
+pandas
+regex
+xlwt - writes xls files
+openpyxl - writes xlsx files 
+xlrd = reads exl files
+
+requirements.txt
