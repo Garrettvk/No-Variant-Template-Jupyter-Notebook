@@ -32,6 +32,8 @@ Keyboard Shortcuts
 
   https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
 
-How to add data from one dataframe to another
+Clean More Data
 
-  first product should be removed because its just a sample for default values
+  Cost Price doesn't match up with Price column
+  Product Custom Fields needs to match color in description
+  decide what do we want for Option Set
