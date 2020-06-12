@@ -1,16 +1,40 @@
-conda create --name no_variant_env python=3
+Virtual environment
+  conda create --name no_variant_env python=3
 
-conda activate no_variant_env
+  conda activate no_variant_env
 
-pip install: 
+  pip install: 
 
-pandas
-regex
-xlwt - writes xls files
-openpyxl - writes xlsx files 
-xlrd = reads exl files
+  pandas
+  regex
+  xlwt - writes xls files
+  openpyxl - writes xlsx files 
+  xlrd = reads exl files
 
-requirements.txt
+  requirements.txt
 
 how to transfer group of commit to another branch
   https://stackoverflow.com/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git
+
+Reset execution count
+
+  It's so that if you have a lot of cells you can have a record of what order you ran them in. To reset the counter, you reset the kernel, either via the Kernel menu or by pressing "0" twice.
+
+Keyboard Shortcuts
+
+  If you start doing some action with the mouse, stop and think if there is a shortcut. If there is a one - use it.
+
+  Help > Keyboard Shortcuts
+
+  Ctrl + S save and checkpoint
+
+  You can also edit existing or add more shortcuts from the Help > Edit Keyboard Shortcuts
+
+  https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
+
+How to add data from one dataframe to another
+  The data is appended
+
+  default values need to be in every column
+
+  first product should be removed because its just a sample for default values
