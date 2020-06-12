@@ -33,8 +33,5 @@ Keyboard Shortcuts
   https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
 
 How to add data from one dataframe to another
-  The data is appended
-
-  default values need to be in every column
 
   first product should be removed because its just a sample for default values
