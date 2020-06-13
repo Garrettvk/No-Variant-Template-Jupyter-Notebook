@@ -33,6 +33,4 @@ Keyboard Shortcuts
   https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
 
 Clean More Data
-
   Product Custom Fields needs to match color in description
-  decide what do we want for Option Set
