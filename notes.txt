@@ -34,6 +34,5 @@ Keyboard Shortcuts
 
 Clean More Data
 
-  Cost Price doesn't match up with Price column
   Product Custom Fields needs to match color in description
   decide what do we want for Option Set
