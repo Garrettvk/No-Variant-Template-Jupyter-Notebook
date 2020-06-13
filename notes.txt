@@ -34,3 +34,12 @@ Keyboard Shortcuts
 
 Clean More Data
   Product Custom Fields needs to match color in description
+
+  slice through match objects to isolate color
+
+  create new colum/ assign custom product fields to those colors
+
+  
+
+String Slice Column
+  https://stackoverflow.com/questions/36505847/substring-of-an-entire-column-in-pandas-dataframe
